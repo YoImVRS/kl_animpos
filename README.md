@@ -84,9 +84,9 @@ Every time a player uses the `/animpos` command, a detailed log is sent to the c
 
 ## Acknowledgements 🙌
 
-This script is a basic, initial version inspired by the "SNR Animation Position" script, which we believe is overpriced for its functionality. We aim to provide a free alternative that delivers the same core features.
-Buy the script we have been inspired by if you wish: https://snrstore.tebex.io/package/5984597
-Preview of the script: https://www.youtube.com/watch?v=9UtkNABQT3Q
+- This script is a basic, initial version inspired by the "SNR Animation Position" script, which we believe is overpriced for its functionality. We aim to provide a free alternative that delivers the same core features.
+- Buy the script we have been inspired by if you wish: https://snrstore.tebex.io/package/5984597
+- Preview of the script: https://www.youtube.com/watch?v=9UtkNABQT3Q
 
 ## License 📄
 
